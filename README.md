@@ -1,8 +1,8 @@
 # Hello there! 👋  
 
-I'm a **Software Engineer** passionate about **EdTech, AI-driven learning, and web/mobile development**. I enjoy building applications that make education more accessible, leveraging AI for personalised learning, and designing intuitive user experiences.  
+I'm a **Software Engineer** passionate about **EdTech, AI applications, and web/mobile development**. I enjoy building applications that make education more accessible, leveraging AI for intelligent systems, and designing intuitive user experiences.  
 
-## 🚀 What I Work On  
+## 💻 My Projects  
 
 ### 🎓 AI-enabled Personalised Learning Platform (PLeaP)  
 🔗 **[Project Details](https://github.com/Yinxian02/pleap/blob/master/AI-enabled%20Personalised%20Learning%20Platform.pdf)**  
