@@ -1,4 +1,4 @@
-# Hi, I'm Yin Xian! 👋  
+# Hello there! 👋  
 
 I'm a **Software Engineer** passionate about **EdTech, AI-driven learning, and web/mobile development**. I enjoy building applications that make education more accessible, leveraging AI for personalised learning, and designing intuitive user experiences.  
 
