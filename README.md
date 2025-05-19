@@ -4,6 +4,10 @@ I'm a **Software Engineer** passionate about **EdTech, AI applications, and web/
 
 ## 💻 My Projects  
 
+### 🏠 RED Project Borneo  
+🔗 **[Blog](https://redprojectborneo-1caac.web.app/)**  
+RED is a student-led initiative dedicated to tackling education disparity in rural Borneo. Our mission centers on developing educational infrastructure and empowering students to apply their skills in real-world settings.
+
 ### 🎓 AI-enabled Personalised Learning Platform (PLeaP)  
 🔗 **[Project Details](https://github.com/Yinxian02/pleap/blob/master/AI-enabled%20Personalised%20Learning%20Platform.pdf)**  
 A learning platform that customises lessons for diverse learners by automating content generation using the OpenAI API/Gemini-1.5-Pro, utilising k-means clustering with collaborative filtering for adaptive recommendations.
